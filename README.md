@@ -1,7 +1,6 @@
 # Ryan Lucena Silva
 
-Estudante de Analise e Desenvolvimento de sistemas no NovoTEC, buscando me desenvolver e buscando oportunidades de aprendisado e desenvolvimento pessoal e profissional
-
+Estudante de Analise e Desenvolvimento de sistemas no NovoTEC, buscando me desenvolver e buscando oportunidades de aprendizado e desenvolvimento pessoal e profissional
 ### Meu Linkedin
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ryan-lucena-silva-a19024202/)
