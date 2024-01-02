@@ -17,8 +17,8 @@ Estudante de Analise e Desenvolvimento de sistemas no NovoTEC, buscando me desen
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryanlssv&theme=transparent&bg_color=000&border_color=FF0000&show_icons=true&icon_color=30A3DC&title_color=FF0000&text_color=FFF)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ryanlssv&repo=Curso.novotec&bg_color=000&border_color=FF0000&show_icons=true&icon_color=30A3DC&title_color=FF0000&text_color=FFF)](https://github.com/Ryanlssv/Curso.novotec)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ryanlssv&repo=Curso.novotec&bg_color=000&border_color=FF0000&show_icons=true&icon_color=30A3DC&title_color=FF0000&text_color=FFF)](https://github.com/Ryanlssv/Curso.novotec) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ryanlssv&repo=Projeto-site&bg_color=000&border_color=FF0000&show_icons=true&icon_color=30A3DC&title_color=FF0000&text_color=FFF)](https://github.com/Ryanlssv/Projeto-Site)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ryanlssv&repo=Projeto-site&bg_color=000&border_color=FF0000&show_icons=true&icon_color=30A3DC&title_color=FF0000&text_color=FFF)](https://github.com/Ryanlssv/Projeto-Site)
+
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ryanlssv&repo=Projetos-E-Praticas&bg_color=000&border_color=FF0000&show_icons=true&icon_color=30A3DC&title_color=FF0000&text_color=FFF)](https://github.com/Ryanlssv/Html-Projetos)
