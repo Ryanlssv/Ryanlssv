@@ -22,6 +22,7 @@ Estudante de Analise e Desenvolvimento de sistemas no NovoTEC, buscando me desen
 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ryanlssv&repo=Projetos-E-Praticas&bg_color=000&border_color=FF0000&show_icons=true&icon_color=30A3DC&title_color=FF0000&text_color=FFF)](https://github.com/Ryanlssv/Html-Projetos)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ryanlssv&repo=Classificacao-o-De-Heroi-com-JS&bg_color=000&border_color=FF0000&show_icons=true&icon_color=30A3DC&title_color=FF0000&text_color=FFF)](https://github.com/Ryanlssv/Classificacao-o-De-Heroi-com-JS)
 
 
