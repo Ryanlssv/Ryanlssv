@@ -14,7 +14,7 @@ Estudante de Analise e Desenvolvimento de sistemas no NovoTEC, buscando me desen
 
 
 ### GitHub Stats
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ryanlssv&show_icons=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryanlssv&theme=transparent&bg_color=000&border_color=FF0000&show_icons=true&icon_color=30A3DC&title_color=FF0000&text_color=FFF)
 
 
