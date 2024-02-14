@@ -15,11 +15,10 @@ Estudante de Analise e Desenvolvimento de sistemas no NovoTEC, buscando me desen
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryanlssv&theme=transparent&bg_color=000&border_color=FF0000&show_icons=true&icon_color=30A3DC&title_color=FF0000&text_color=FFF)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryanlssv)](https://github.com/Ryanlssv/github-readme-stats)
+
+
 ### Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanlssv&layout=compact&bg_color=000&border_color=FF0000&show_icons=true&icon_color=30A3DC&title_color=FF0000&text_color=FFF)
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanlssv&hide_progress=true&bg_color=000&border_color=FF0000&show_icons=true&icon_color=30A3DC&title_color=FF0000&text_color=FFF)
 
