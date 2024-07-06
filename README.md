@@ -4,6 +4,7 @@ Estudante de Analise e Desenvolvimento de sistemas no NovoTEC, buscando me desen
 ### Meu Linkedin
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)]([https://www.linkedin.com/in/ryanlucena-silva/])
+### https://www.linkedin.com/in/ryanlucena-silva/
 
 ## Habilidades
 
