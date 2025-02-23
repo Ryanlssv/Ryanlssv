@@ -24,4 +24,4 @@ Técnico em desenvolvimento de sistemas | Desenvolvedor Front-end & Back-end| De
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanlssv&hide_progress=true&bg_color=000&&show_icons=true&icon_color=fcfcfc&text_color=FFF&theme=dark#gh-dark-mode-only)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Ryanlssv/github-readme-stats)
