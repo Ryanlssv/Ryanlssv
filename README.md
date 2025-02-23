@@ -1,10 +1,10 @@
 # Ryan Lucena Silva
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com conhecimento em HTML, CSS e JavaScript, focado em desenvolvimento web.
+Técnico em desenvolvimento de sistemas | Desenvolvedor Front-end | Desenvolvedor Web | HTML- CSS - JavaScript
 ### Meu Linkedin
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)]([https://www.linkedin.com/in/ryanlucena-silva/])
-### https://www.linkedin.com/in/ryanlucena-silva/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanlucenasilva/)
+### https://www.linkedin.com/in/ryanlucenasilva/
 
 ## Habilidades
 
