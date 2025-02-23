@@ -18,7 +18,7 @@ Técnico em desenvolvimento de sistemas | Desenvolvedor Front-end & Back-end| De
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryanlssv&bg_color=000&border_color=FF0000&show_icons=true&icon_color=30A3DC&title_color=FF0000&text_color=FFF)](https://github.com/Ryanlssv/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryanlssv&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryanlssv&show_icons=true&bg_color=FFF)
 
 
 ## Languages
